@@ -1,0 +1,4 @@
+Total Word Count: 1313
+Total Character Count: 6147
+Distinct Word Count: 640
+Distinct Words: the
